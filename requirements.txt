@@ -1,0 +1,5 @@
+requests>=2.31,<3
+tzdata>=2025.2
+PyYAML>=6.0,<7
+pystray>=0.19,<1
+Pillow>=10,<12
